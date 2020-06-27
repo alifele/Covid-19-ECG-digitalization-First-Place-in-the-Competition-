@@ -118,8 +118,8 @@ def main():
 
     print('There are ' + str(np.amax(labels) + 1) + ' labeled components.')
 
-    fig = plt.figure(figsize=(12, 8))
-    plt.title('Separated Curves')
+    #fig = plt.figure(figsize=(12, 8))
+    #plt.title('Separated Curves')
     columns = 4
     rows = 3
     curve_count = 0
@@ -133,8 +133,11 @@ def main():
         print(type(sl))
         print(sl)
         #fig.add_subplot(rows, columns, curve_count)
-        plt.imshow(img)
-        plt.savefig('image{}.png'.format(i))
+        #import pdb; pdb.set_trace()
+        #plt.imshow(img)
+        #print(img.shape)
+        #plt.savefig('image{}.png'.format(i))
+        cv.imwrite('image{}.jpg'.format(i), img)
         if curve_count == 12:
             break
     plt.show()
