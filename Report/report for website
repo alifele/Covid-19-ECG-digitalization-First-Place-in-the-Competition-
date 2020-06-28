@@ -1,0 +1,41 @@
+Description:
+it has been observed recenlty, that some drugs that are given to the patients with Covid-19 symptons, cause some realy vitla damages on the cardain system. on the other hand, the lungs of these patients are already damages by the virus, so less blood, with less oxygen will be pumped through the body. This negative feed back can cause very serios problmes, in a way that some of the patients are dying just because of this damage on the cardial system rather that the virus it self.
+
+So a comprehensive database of the ECG of these patients are needed, so that the researchers could diagnose the problem throughly. The only problem is that the most of the ECG devices in public hospitals has an analog output that gets printed on a paper. So a tool is needed which can digitalize signals on the ECG papers. by using this tool, any one can upload the ECG of a patient diagnosed to have Coivd-19. In this way a comprehensive data set can be gathered in a short time. So researchers can put their focuse on the subject to find the reason behind that vital effect. 
+
+
+technologies:
+our algorithms for segmentation and digitalization are written in python scripts. In these scripts we have used OpenCv for the image proccessing.
+We alos have used the WordPress for the web development.
+
+most difficult:
+segmentation part was the most difficult thing we faced. because we had to find the different signals on an image.
+
+accomplishements:
+we are very proud of the final result of our algorithm. we did not excpecing this high quality output
+
+
+Learned:
+Open CV in more details
+practical group work on github
+The jargons that are used in biology
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
