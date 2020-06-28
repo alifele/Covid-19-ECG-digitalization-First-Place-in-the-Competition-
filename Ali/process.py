@@ -123,6 +123,7 @@ def main():
     columns = 4
     rows = 3
     curve_count = 0
+    curve_label = ['I', 'V1', 'II', 'V2', 'III', 'V3', 'aVR', 'V4', 'aVL', 'V5', 'aVF', 'V6']
     for i in range(1, np.amax(labels) + 1):
 
         sl = ndimage.find_objects(labels == i)
@@ -137,7 +138,7 @@ def main():
         #plt.imshow(img)
         #print(img.shape)
         #plt.savefig('image{}.png'.format(i))
-        cv.imwrite('image{}.jpg'.format(i), img)
+        cv.imwrite('{}.jpg'.format(curve_label[curve_count - 1]), img)
         if curve_count == 12:
             break
     plt.show()
