@@ -1,24 +1,24 @@
 Description:
-it has been observed recenlty, that some drugs that are given to the patients with Covid-19 symptons, cause some realy vitla damages on the cardain system. on the other hand, the lungs of these patients are already damages by the virus, so less blood, with less oxygen will be pumped through the body. This negative feed back can cause very serios problmes, in a way that some of the patients are dying just because of this damage on the cardial system rather that the virus it self.
+it has been observed just recently, that some drugs which are given to the patients with Covid-19 symptoms, cause some really vital damages on the cardiac system. on the other hand, the lungs of these patients are already damaged by the virus, so less blood, with less oxygen, will be pumped through the body. This negative feedback can cause very serious problems, in a way that some of the patients are dying just because of this damage to the cardiac system rather than the virus itself.
 
-So a comprehensive database of the ECG of these patients are needed, so that the researchers could diagnose the problem throughly. The only problem is that the most of the ECG devices in public hospitals has an analog output that gets printed on a paper. So a tool is needed which can digitalize signals on the ECG papers. by using this tool, any one can upload the ECG of a patient diagnosed to have Coivd-19. In this way a comprehensive data set can be gathered in a short time. So researchers can put their focuse on the subject to find the reason behind that vital effect. 
+So a comprehensive database of the ECG of these patients is needed. ئo that the researchers could diagnose the problem thoroughly. The only problem is that most of the ECG devices in public hospitals has an analog output that gets printed on paper. So a tool is needed which can digitalize signals on the ECG papers. by using this tool, anyone can upload the ECG of a patient diagnosed to have Coivd-19. In this way, a comprehensive data set can be gathered in a short time. So researchers can put their focus on the subject to find the reason behind that vital effect. 
 
 
 technologies:
-our algorithms for segmentation and digitalization are written in python scripts. In these scripts we have used OpenCv for the image proccessing.
-We alos have used the WordPress for the web development.
+our algorithms for segmentation and digitalization are written in python scripts. In these scripts, we have used OpenCV for the image processing.
+We also have used WordPress for web development.
 
 most difficult:
 segmentation part was the most difficult thing we faced. because we had to find the different signals on an image.
 
-accomplishements:
-we are very proud of the final result of our algorithm. we did not excpecing this high quality output
+accomplishments:
+we are very proud of the final result of our algorithm. we did not expect such high-quality output
 
 
 Learned:
-Lots of things. Here is the obviuse ones that was common between all of team members:
+Lots of things. Here are the obvious ones that were common between all of the team members:
 Open CV in more details
-practical group work on github
+practical group work on Github
 The jargons that are used in ECG
 practical web development 
 how to prototype an Idea very fast!
@@ -26,27 +26,29 @@ how to prototype an Idea very fast!
 
 
 Next Step:
-There is almost nothing left. We only need to buy a toplevel domain name and a reliable host to bring our website on the internet so that every body can access (right now our host is a RaspberryPi on Ali's local network!)
-The other thing that we need to do is embedding the application in our website. we may need to write some php code that can run the python scripts on the server side.
+There is almost nothing left. We only need to buy a top-level domain name and a reliable host to bring our website on the internet so that everybody can access (right now our host is a RaspberryPi on Ali's local network!)
+The other thing that we need to do is embedding the application in our website. we may need to write some PHP code that can run the python scripts on the server-side.
 
 
 Relevance to theme:
-The core of our Idea was a website with a application on it so that every body can use. So on of the best places to submit our idea was WebFest on CERN. You can not imagine how much we got excited when we saw there is a health category there!
+The core of our Idea was a website with an application on it so that everybody can use it. So one of the best places to submit our idea was WebFest on CERN. You can not imagine how much we got excited when we saw there is a health category there!
 
 
-potential to real world:
-as I said in the description section, today, our world absoululty needs a complrehensive database of the patienes with Covid-19 symptons. people are diying every day, just because we have no Idea why some drugs (like Hydroxychloroquine) causes vital effects.
-We decided to propose our porject on the WebFest, hoping that we can use the acceleration power of CERN to accelerate our project. people needs our help as soon as possible
+potential to the real world:
+as I said in the description section, today, our world absolutely needs a comprehensive database of the patients with Covid-19 symptoms. people are dying every day, just because we have no idea why some drugs (like Hydroxychloroquine) causes vital effects.
+We decided to propose our project on the WebFest, hoping that we can use the acceleration power of CERN to accelerate our project. people need our help as soon as possible. Even today is late.
 
 
 
 Progress During hackton:
-The first time that Sina and I decided to do such a project, we was planning to complete it on one month. Doing almost 90% of the project in a signle weekend was a thing that I could never imagine
+The first time that Sina and I decided to do such a project, we were planning to complete it in one month. Doing almost 90% of the project in a single weekend was a thing that I could never imagine
 
 
 
 
 
+
+added value:
 
 
 
