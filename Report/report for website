@@ -16,10 +16,32 @@ we are very proud of the final result of our algorithm. we did not excpecing thi
 
 
 Learned:
+Lots of things. Here is the obviuse ones that was common between all of team members:
 Open CV in more details
 practical group work on github
-The jargons that are used in biology
+The jargons that are used in ECG
+practical web development 
+how to prototype an Idea very fast!
 
+
+
+Next Step:
+There is almost nothing left. We only need to buy a toplevel domain name and a reliable host to bring our website on the internet so that every body can access (right now our host is a RaspberryPi on Ali's local network!)
+The other thing that we need to do is embedding the application in our website. we may need to write some php code that can run the python scripts on the server side.
+
+
+Relevance to theme:
+The core of our Idea was a website with a application on it so that every body can use. So on of the best places to submit our idea was WebFest on CERN. You can not imagine how much we got excited when we saw there is a health category there!
+
+
+potential to real world:
+as I said in the description section, today, our world absoululty needs a complrehensive database of the patienes with Covid-19 symptons. people are diying every day, just because we have no Idea why some drugs (like Hydroxychloroquine) causes vital effects.
+We decided to propose our porject on the WebFest, hoping that we can use the acceleration power of CERN to accelerate our project. people needs our help as soon as possible
+
+
+
+Progress During hackton:
+The first time that Sina and I decided to do such a project, we was planning to complete it on one month. Doing almost 90% of the project in a signle weekend was a thing that I could never imagine
 
 
 
